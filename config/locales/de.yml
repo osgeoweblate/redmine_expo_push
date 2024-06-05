@@ -1,11 +1,12 @@
-hooks:
-  redmine_expo_push:
-    my_account_preferences:
-      delete: Löschen
-      delete_all: Alle löschen
-      push_notifications:
-        enabled: Aktiviert
-        disabled: Deaktiviert
-        enabled_no_email: Aktiviert, keine E-Mails
-field_push_notifications: Push-Nachrichten
-label_expo_push_experience_id: Expo Experience ID
+de:
+  hooks:
+    redmine_expo_push:
+      my_account_preferences:
+        delete: Löschen
+        delete_all: Alle löschen
+        push_notifications:
+          enabled: Aktiviert
+          disabled: Deaktiviert
+          enabled_no_email: Aktiviert, keine E-Mails
+  field_push_notifications: Push-Nachrichten
+  label_expo_push_experience_id: Expo Experience ID
